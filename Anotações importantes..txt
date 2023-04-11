@@ -1,0 +1,5 @@
+link da escola DIO: https://www.dio.me/
+Link de downlad do Git:https://git-scm.com/downloads
+O Git Bash é uma ferramenta que estende e otimiza o uso do Git
+Link para fazer o perfil no Github: https://github.com/login
+Com o perfil no Github você conseve fazer e deixar registrado seus  repositos e assim mostrando sua evolução denrtro do seu conhecimento e assim consegue formar e mostrar um portifolio de excelencia.

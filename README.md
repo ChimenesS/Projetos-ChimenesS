@@ -7,3 +7,4 @@ Criando meu primeiro repositório de projetos.
 ## Referencias para o meu estudo
 
 [Escola referencia para profissionais do futuro](https://www.dio.me/)
+
